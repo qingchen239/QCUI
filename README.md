@@ -2,7 +2,7 @@
 
 《終極動員令：紅色警戒3》朝日帝國旗子躲過中國視頻網站政治審查的完美解決方案
 
-# 語言
+## 語言
 
 [English Translated by Google](./README.eng.md) | 繁體中文
 
@@ -30,4 +30,4 @@
 
 ## 飲水思源
 
-本MOD受到了「墨喵星突突母舰Official」、「7silver」的啓發，並受到了「RAT红警3 Mod制作交流」群內成員的大力幫助。在此對他們表示感謝。
+本MOD受到了「墨喵星突突母舰Official」、「7silver」、「Flameheart」的啓發，並受到了「RAT红警3 Mod制作交流」群內成員的大力幫助。在此對他們表示感謝。
