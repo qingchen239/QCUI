@@ -2,7 +2,7 @@
 
 "Command & Conquer: Red Alert 3" the perfect solution to let the Rising Sun flag to avoid political censorship on Chinese video sites
 
-# Language
+## Language
 
 English Translated by Google | [繁體中文](./README.md)
 
@@ -30,4 +30,4 @@ This MOD unifies the Japanese army flag in the original version as the Rising Su
 
 ## have gratitude
 
-This MOD was inspired by "墨喵星突突母舰Official" and "7silver", and received great help from members of the "RAT Red Alert 3 Mod Production Exchange(RAT红警3 Mod制作交流)" group. Thank them here.
+This MOD was inspired by "墨喵星突突母舰Official", "7silver" and "Flameheart", and received great help from members of the "RAT Red Alert 3 Mod Production Exchange(RAT红警3 Mod制作交流)" group. Thank them here.
