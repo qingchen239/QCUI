@@ -24,6 +24,8 @@ This MOD unifies the Japanese army flag in the original version as the Rising Su
 
 1.1 Replace the Rising Sun Flag on the radar of the Empire State with a clearer version
 
+1.2 Add a circle of black stroke to the Rising Sun Flag in the Game Option screens to make the style match the flags of other factions.
+
 ## Existing problems
 
 1. In the Mission Menu screens, random player flags will become allied flags. We have not yet found a solution to this problem.
