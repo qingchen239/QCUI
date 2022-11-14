@@ -10,25 +10,16 @@
 
 在中國的某些視頻網站，原版的部分元素會被審覈判定為「涉及不適宜內容」而導致影片遭到下架。
 
-而這款MOD計劃將原版中的幾乎所有政治元素全部（如帝國單位上的旭日旗及全部文字、蘇聯單位上的黨旗和紅星等），會大大提高影片的審覈通過率，並且不會在對戰時造成數據不同步現象。
+而這款補丁計劃將原版中的幾乎所有政治元素全部（如帝國單位上的旭日旗及全部文字、蘇聯單位上的黨旗和紅星等），會大大提高影片的審覈通過率，並且不會在對戰時造成數據不同步現象。
 
 ## 對比圖
 
-![Figure 1.1](./Figures/Figure-1.1.png)
-
-![Figure 1.5](./Figures/Figure-1.5.png)
-
-![Figure 1.2](./Figures/Figure-1.2.png)
-
-![Figure 1.6](./Figures/Figure-1.6.png)
-
-![Figure 1.3](./Figures/Figure-1.3.png)
-
-![Figure 1.7](./Figures/Figure-1.7.png)
-
-![Figure 1.4](./Figures/Figure-1.4.png)
-
-![Figure 1.8](./Figures/Figure-1.8.png)
+| 補丁 | 原版 |
+| ---- | ---- |
+|![Figure 1.1](./Figures/Figure-1.1.png)|![Figure 1.2](./Figures/Figure-1.2.png)|
+|![Figure 1.3](./Figures/Figure-1.3.png)|![Figure 1.4](./Figures/Figure-1.4.png)|
+|![Figure 1.5](./Figures/Figure-1.5.png)|![Figure 1.6](./Figures/Figure-1.6.png)|
+|![Figure 1.7](./Figures/Figure-1.7.png)|![Figure 1.8](./Figures/Figure-1.8.png)|
 
 ## 使用方法
 
@@ -50,8 +41,8 @@
 
 1、暫停界面出現了一點小小BUG，但是完全不影響遊戲。
 
-2、本MOD尚未製作完成，目前僅完成了蘇聯建築、帝國建築的修改工作。盟軍建築、盟軍單位、蘇聯單位、帝國單位、民用建築、民用單位的修改正在進行中。
+2、本補丁尚未製作完成，目前僅完成了蘇聯建築、帝國建築的修改工作。盟軍建築、盟軍單位、蘇聯單位、帝國單位、民用建築、民用單位的修改正在進行中。
 
 ## 飲水思源
 
-本MOD受到了「墨喵星突突母舰Official」、「7silver」、「Flameheart」的啓發，並受到了包括「靚仔」、「pdz_」、「zyb」、「小琪」等在內的「RAT红警3 Mod制作交流」群及「神州眾議院」群內成員的大力幫助。在此對他們表示感謝。
+本補丁受到了「墨喵星突突母舰Official」、「7silver」、「Flameheart」的啓發，並受到了包括「靚仔」、「pdz_」、「zyb」、「小琪」等在內的「RAT红警3 Mod制作交流」群及「神州眾議院」群內成員的大力幫助。在此對他們表示感謝。
