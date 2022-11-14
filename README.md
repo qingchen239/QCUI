@@ -23,9 +23,7 @@
 
 ## 使用方法
 
-1、將MOD文件中的內容（「QCUI_版本號.big」（如「QCUI_1.0.big」）以及「QCUI_版本號.skudef」（如「QCUI_1.0.skudef）共兩個文件）複製到《紅色警戒3》的遊戲文件夾內。
-
-2、用文檔處理程序打開遊戲文件夾下的「RA3_語言_1.12.SkuDef」（如「RA3_chinese_t_1.12.SkuDef」）文件，並在第二行插入「add-big QCUI_版本號.big」（如「add-big QCUI_1.1.big」）語句，然後保存。
+用文檔處理程序打開遊戲文件夾下的「RA3_語言_1.12.SkuDef」（如「RA3_chinese_t_1.12.SkuDef」）文件，並在第二行插入「add-big QCUI_版本號.big」（如「add-big QCUI_1.1.big」）語句，然後保存。
 
 ## 更新日誌
 
