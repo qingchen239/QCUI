@@ -14,7 +14,7 @@ And this mod plan will take almost all the political elements in the original ve
 
 ## Comparison chart
 
-| In this mod | 1.12 |
+| QCUI | 1.12 |
 | ---- | ---- |
 |![Figure 1.1](../Figures/Figure-1.1.png)|![Figure 1.2](../Figures/Figure-1.2.png)|
 |![Figure 1.3](../Figures/Figure-1.3.png)|![Figure 1.4](../Figures/Figure-1.4.png)|
@@ -22,10 +22,7 @@ And this mod plan will take almost all the political elements in the original ve
 |![Figure 1.7](../Figures/Figure-1.7.png)|![Figure 1.8](../Figures/Figure-1.8.png)|
 
 ## How to use
-
-Copy the contents of the MOD file ("QCUI_ version number.big" (such as "QCUI_1.0.big") and "QCUI_ version number.skudef" (such as "QCUI_1.0.skudef)) into the game folder of "Red Alert 3".
-
-2. Open the "RA3_language_1.12.SkuDef" (e.g. "RA3_Chinese_t_1.12.SkuDef") file in the game folder with a document processing program, and insert the "add-big QCUI_version number.big" (e.g. "add-big QCUI_1.1.big") in the second line, and then save.
+Open the "RA3_language_1.12.SkuDef" (e.g. "RA3_Chinese_t_1.12.SkuDef") file in the game folder with a document processing program, and insert the "add-big QCUI_version number.big" (e.g. "add-big QCUI_1.1.big") in the second line, and then save.
 
 ## Update the journal
 
