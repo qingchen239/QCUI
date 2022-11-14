@@ -4,7 +4,7 @@
 
 ## 語言
 
-[English Translated by Google](./README.eng.md) | 繁體中文
+[English Translated by Google](./READMES/README.eng.md) | 繁體中文
 
 ## 特性說明
 
