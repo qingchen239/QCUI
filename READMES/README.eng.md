@@ -14,21 +14,21 @@ And this mod plan will take almost all the political elements in the original ve
 
 ## Comparison chart
 
-![Figure 1.1](./Figures/Figure-1.1.png)
+![Figure 1.1](../Figures/Figure-1.1.png)
 
-![Figure 1.5](./Figures/Figure-1.5.png)
+![Figure 1.5](../Figures/Figure-1.5.png)
 
-![Figure 1.2](./Figures/Figure-1.2.png)
+![Figure 1.2](../Figures/Figure-1.2.png)
 
-![Figure 1.6](./Figures/Figure-1.6.png)
+![Figure 1.6](../Figures/Figure-1.6.png)
 
-![Figure 1.3](./Figures/Figure-1.3.png)
+![Figure 1.3](../Figures/Figure-1.3.png)
 
-![Figure 1.7](./Figures/Figure-1.7.png)
+![Figure 1.7](../Figures/Figure-1.7.png)
 
-![Figure 1.4](./Figures/Figure-1.4.png)
+![Figure 1.4](../Figures/Figure-1.4.png)
 
-![Figure 1.8](./Figures/Figure-1.8.png)
+![Figure 1.8](../Figures/Figure-1.8.png)
 
 ## How to use
 
