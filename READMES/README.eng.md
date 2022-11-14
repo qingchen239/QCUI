@@ -10,7 +10,7 @@ English Translated by Google | [繁體中文](../README.md)
 
 On some video sites in China, some elements of the original version are judged to be "inappropriate content" and the video is taken down.
 
-And this mod plan will take almost all the political elements in the original version (such as the rising sun flag and all the text on the imperial unit, the party flag and red star on the Soviet unit, etc.), which will greatly improve the approval rate of the film and will not cause data synchronization in wartime.
+And this mod plan will delete almost all the political elements in the original version (such as the rising sun flag and all the text on the imperial unit, the party flag and red star on the Soviet unit, etc.), which will greatly improve the approval rate of the film and will not cause data synchronization in wartime.
 
 ## Comparison chart
 
