@@ -12,6 +12,24 @@ On some video sites in China, some elements of the original version are judged t
 
 And this mod plan will take almost all the political elements in the original version (such as the rising sun flag and all the text on the imperial unit, the party flag and red star on the Soviet unit, etc.), which will greatly improve the approval rate of the film and will not cause data synchronization in wartime.
 
+## Comparison chart
+
+![Figure 1.1](./Figures/Figure-1.1.png)
+
+![Figure 1.5](./Figures/Figure-1.5.png)
+
+![Figure 1.2](./Figures/Figure-1.2.png)
+
+![Figure 1.6](./Figures/Figure-1.6.png)
+
+![Figure 1.3](./Figures/Figure-1.3.png)
+
+![Figure 1.7](./Figures/Figure-1.7.png)
+
+![Figure 1.4](./Figures/Figure-1.4.png)
+
+![Figure 1.8](./Figures/Figure-1.8.png)
+
 ## How to use
 
 Copy the contents of the MOD file ("QCUI_ version number.big" (such as "QCUI_1.0.big") and "QCUI_ version number.skudef" (such as "QCUI_1.0.skudef)) into the game folder of "Red Alert 3".
