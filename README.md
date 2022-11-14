@@ -12,6 +12,24 @@
 
 而這款MOD計劃將原版中的幾乎所有政治元素全部（如帝國單位上的旭日旗及全部文字、蘇聯單位上的黨旗和紅星等），會大大提高影片的審覈通過率，並且不會在對戰時造成數據不同步現象。
 
+## 對比圖
+
+![Figure 1.1](./Figures/Figure-1.1.png)
+
+![Figure 1.5](./Figures/Figure-1.5.png)
+
+![Figure 1.2](./Figures/Figure-1.2.png)
+
+![Figure 1.6](./Figures/Figure-1.6.png)
+
+![Figure 1.3](./Figures/Figure-1.3.png)
+
+![Figure 1.7](./Figures/Figure-1.7.png)
+
+![Figure 1.4](./Figures/Figure-1.4.png)
+
+![Figure 1.8](./Figures/Figure-1.8.png)
+
 ## 使用方法
 
 1、將MOD文件中的內容（「QCUI_版本號.big」（如「QCUI_1.0.big」）以及「QCUI_版本號.skudef」（如「QCUI_1.0.skudef）共兩個文件）複製到《紅色警戒3》的遊戲文件夾內。
