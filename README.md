@@ -21,6 +21,10 @@
 |![Figure 1.5](./Figures/Figure-1.5.png)|![Figure 1.6](./Figures/Figure-1.6.png)|
 |![Figure 1.7](./Figures/Figure-1.7.png)|![Figure 1.8](./Figures/Figure-1.8.png)|
 
+## 源碼下載
+
+https://drive.google.com/file/d/1pQHFvxLCn2gLHJpXlvEPESr1tz5NDnW_/view?usp=sharing
+
 ## 使用方法
 
 用文檔處理程序打開遊戲文件夾下的「RA3_語言_1.12.SkuDef」（如「RA3_chinese_t_1.12.SkuDef」）文件，並在第二行插入「add-big QCUI_版本號.big」（如「add-big QCUI_1.1.big」）語句，然後保存。
