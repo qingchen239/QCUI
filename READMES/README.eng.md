@@ -21,6 +21,10 @@ And this mod plan will delete almost all the political elements in the original 
 |![Figure 1.5](../Figures/Figure-1.5.png)|![Figure 1.6](../Figures/Figure-1.6.png)|
 |![Figure 1.7](../Figures/Figure-1.7.png)|![Figure 1.8](../Figures/Figure-1.8.png)|
 
+## Source Code Download
+
+https://drive.google.com/file/d/1pQHFvxLCn2gLHJpXlvEPESr1tz5NDnW_/view?usp=sharing
+
 ## How to use
 Open the "RA3_language_1.12.SkuDef" (e.g. "RA3_Chinese_t_1.12.SkuDef") file in the game folder with a document processing program, and insert the "add-big QCUI_version number.big" (e.g. "add-big QCUI_1.1.big") in the second line, and then save.
 
